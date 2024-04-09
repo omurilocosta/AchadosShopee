@@ -39,5 +39,23 @@ let produtosJson = [
         nome:'Extensor de Torneiras Universal',
         img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbk4-lpi0u0zyngh1a7",
         link:"https://shope.ee/1qFACmRH8a"
+    },
+    {
+        id:8,
+        nome:"Kit Conjunto para Banheiro Lavabo em Cerâmica",
+        img:"https://down-br.img.susercontent.com/file/br-11134201-23030-3zt81hngcsov09",
+        link:"https://shope.ee/5fRuZdWjmU"
+    },
+    {
+        id:9,
+        nome:"Suporte Capa de Telefone de Chuveiro",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98r-llp49xzdfl0r52",
+        link:"https://shope.ee/9pHTXvIiiA"
+    },
+    {
+        id:10,
+        nome:"Suporte De Shampoo Prateleiras De Banheiro ",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-loe8v8t8ihxj3e",
+        link:"https://shope.ee/3fgqDEH6LS"
     }
 ]
