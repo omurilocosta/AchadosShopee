@@ -57,5 +57,29 @@ let produtosJson = [
         nome:"Suporte De Shampoo Prateleiras De Banheiro ",
         img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-loe8v8t8ihxj3e",
         link:"https://shope.ee/3fgqDEH6LS"
-    }
+    },
+    {
+        id:11,
+        nome:"Colher Inteligente de Medição",
+        img:"https://down-br.img.susercontent.com/file/b173a51676b441998dc5275d8969ef28",
+        link:"https://shope.ee/40JhjdNIl1"
+    },
+    {
+        id:12,
+        nome:"Frasco Com Pulverizador De Óleo 2 Em 1",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbm7-lll3nogvqp4f46",
+        link:"https://shope.ee/1fvmxY4vzs"
+    },
+    {
+        id:13,
+        nome:"Kit 12 Peças Utensílios De Cozinha De Silicone",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltwoux24m00kaf",
+        link:"https://shope.ee/8f5XIymQBp"
+    },
+    {
+        id:14,
+        nome:"Descascador De Legumes Frutas Com Armazenamento Cozinha",
+        img:"https://down-br.img.susercontent.com/file/bde433d412650b7d6781fd19974050d0",
+        link:"https://shope.ee/Vjpan5Qzg"
+    },
 ]
