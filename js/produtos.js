@@ -82,4 +82,28 @@ let produtosJson = [
         img:"https://down-br.img.susercontent.com/file/bde433d412650b7d6781fd19974050d0",
         link:"https://shope.ee/Vjpan5Qzg"
     },
+    {
+        id:15,
+        nome:"Processador de Alimentos Manual Cortador, Ralador, Fatiador de Legumes",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lr5yqfw6a9esed",
+        link:"https://shope.ee/6AOMRZ8MEu"
+    },
+    {
+        id:16,
+        nome:"Forma de Silicone para Air Fryer",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-22110-mo7mtbuau8jv70",
+        link:"https://shope.ee/4fZYf8fShE"
+    },
+    {
+        id:17,
+        nome:"Porta Tempero Condimento Inox",
+        img:"https://down-br.img.susercontent.com/file/fdf6820c707669a751d554479d3ce079",
+        link:"https://shope.ee/5plW3P2iRh"
+    },
+    {
+        id:18,
+        nome:"Mini Processador Eétrico de Alimentos",
+        img:"https://down-br.img.susercontent.com/file/cb4ae46761e1158568012ecabb91ede5",
+        link:"https://shope.ee/2foUHk6TAL"
+    },
 ]
