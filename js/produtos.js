@@ -102,8 +102,44 @@ let produtosJson = [
     },
     {
         id:18,
-        nome:"Mini Processador Eétrico de Alimentos",
+        nome:"Mini Processador Elétrico de Alimentos",
         img:"https://down-br.img.susercontent.com/file/cb4ae46761e1158568012ecabb91ede5",
         link:"https://shope.ee/2foUHk6TAL"
+    },
+    {
+        id:20,
+        nome:"Umidificador de Lua",
+        img:"https://down-br.img.susercontent.com/file/605679efd69038a6ef717f889180c29a",
+        link:"https://shope.ee/4KwjVFd9eL"
+    },
+    {
+        id:21,
+        nome:"Projetor de Luz Noturna",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lkiin3ctwi0hae",
+        link:"https://shope.ee/8f5ifchME3"
+    },
+    {
+        id:22,
+        nome:"Kit 2 Porta Travesseiros",
+        img:"https://down-br.img.susercontent.com/file/br-50009109-beb0807e0e04964da69c9984c1aaaee8",
+        link:"https://shope.ee/9UepfdoL92"
+    },
+    {
+        id:23,
+        nome:"Papel de Parede Adesivo Ripas de Madeira Preta",
+        img:"https://down-br.img.susercontent.com/file/d4471fe428a8c0784517a56006c86a58",
+        link:"https://shope.ee/5fS76ySZ6i"
+    },
+    {
+        id:24,
+        nome:"Cabeceira Estofado",
+        img:"https://down-br.img.susercontent.com/file/br-11134211-23030-fbef4sk72bov7a",
+        link:"https://shope.ee/5V8gupPR2s"
+    },
+    {
+        id:25,
+        nome:"Protetor de Colchão Impermeável ",
+        img:"https://down-br.img.susercontent.com/file/e9310f93220e6a3a84790039e526670c",
+        link:"https://shope.ee/Vk0xw5zrV"
     },
 ]
