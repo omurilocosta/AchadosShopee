@@ -150,13 +150,13 @@ let produtosJson = [
     },
     {
         id:27,
-        nome:"",
+        nome:"Tapete Felpudo 40mm",
         img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lu6d9ykel468c7",
         link:"https://shope.ee/8KStgpEKYy"
     },
     {
         id:28,
-        nome:"Ultra fino diodo emissor de luz",
+        nome:"Ultra Fino Emissor de Luz",
         img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbls-lousfk09r6ku2d",
         link:"https://shope.ee/7pWd63LGDN"
     },
