@@ -142,4 +142,46 @@ let produtosJson = [
         img:"https://down-br.img.susercontent.com/file/e9310f93220e6a3a84790039e526670c",
         link:"https://shope.ee/Vk0xw5zrV"
     },
+    {
+        id:26,
+        nome:"Quadros Decorativos 180 x 70 cm",
+        img:"https://down-br.img.susercontent.com/file/b2a2b9fe9fd2ff2821ffde6aff02aa66",
+        link:"https://shope.ee/8pPAHZPX4y"
+    },
+    {
+        id:27,
+        nome:"",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lu6d9ykel468c7",
+        link:"https://shope.ee/8KStgpEKYy"
+    },
+    {
+        id:28,
+        nome:"Ultra fino diodo emissor de luz",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbls-lousfk09r6ku2d",
+        link:"https://shope.ee/7pWd63LGDN"
+    },
+    {
+        id:29,
+        nome:"Kit 4 Almofadas",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-23010-yvf6s1wojlmv61",
+        link:"https://shope.ee/4AdKjYcEbG"
+    },
+    {
+        id:30,
+        nome:"Mesa Lateral e Canto de Sofá",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lswoljzijfnx82",
+        link:"https://shope.ee/7KaMVX4Xb6"
+    },
+    {
+        id:31,
+        nome:"Kit 2 Puff Apollo",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsj2f1826s6z48",
+        link:"https://shope.ee/6fKfilDEIe"
+    },
+    {
+        id:32,
+        nome:"Tapete Para Sala Geométrico Grande ",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgimllqu6wxye5",
+        link:"https://shope.ee/4pt1XMCHo6"
+    },
 ]
