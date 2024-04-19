@@ -184,4 +184,52 @@ let produtosJson = [
         img:"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lgimllqu6wxye5",
         link:"https://shope.ee/4pt1XMCHo6"
     },
+    {
+        id:33,
+        nome:"Quadros Decorativos Fases da Lua",
+        img:"https://down-br.img.susercontent.com/file/5b28e6a6fe983c1a9b4e9b8d8207ad52",
+        link:"https://shope.ee/AKDzancktA"
+    },
+    {
+        id:34,
+        nome:"Rack para Sala Quarto TV ",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-lncytjhnmsi7d9",
+        link:"https://shope.ee/7AGxpLNv8v"
+    },
+    {
+        id:35,
+        nome:"Kit decorativo Sala",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk084pxe3ibuce",
+        link:"https://shope.ee/AKDzbKpkpr"
+    },
+    {
+        id:36,
+        nome:"Mesa de Centro Retangular",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7r98o-ltqoujjewtfj03",
+        link:"https://shope.ee/qMuIH75gj"
+    },
+    {
+        id:37,
+        nome:"Mesa de Cabeceira para Quarto",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-7rcc2-lr96m4m8zb5qaa",
+        link:"https://shope.ee/7AGxrnO7JN"
+    },
+    {
+        id:38,
+        nome:"Tapete Passadeira 2,00 x 0,60",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbmg-lqowkfutewyx6c",
+        link:"https://shope.ee/8A9V41wwXW"
+    },
+    {
+        id:39,
+        nome:"Kit Nichos Escritório Quarto",
+        img:"https://down-br.img.susercontent.com/file/sg-11134201-7rbk0-lkr1xg44ezxsf5",
+        link:"https://shope.ee/LQdjruAXp"
+    },
+    {
+        id:40,
+        nome:"Cortina Rústica de Linho",
+        img:"https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk2w189icvpm63",
+        link:"https://shope.ee/3L4FJbUQmu"
+    },
 ]
