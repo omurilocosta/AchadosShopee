@@ -121,7 +121,7 @@ let produtosJson = [
     {
         id:22,
         nome:"Kit 2 Porta Travesseiros",
-        img:"https://down-br.img.susercontent.com/file/br-50009109-beb0807e0e04964da69c9984c1aaaee8",
+        img:"https://down-br.img.susercontent.com/file/f330bdc19c62ff8f719e3c1ad152eb30",
         link:"https://shope.ee/9UepfdoL92"
     },
     {
